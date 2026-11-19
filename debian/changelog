@@ -1,3 +1,12 @@
+deepin-service-manager (6.8.5) unstable; urgency=medium
+
+  * chore: Sync by https://github.com/peeweep-
+    test/.github/commit/07a2194d5552e1122e72f1ade9336a52a299a884
+  * chore: Sync by https://github.com/peeweep-
+    test/.github/commit/cfcb97d002951ee680120baf163d73d0b62c4f93
+
+ -- Zhao Fangxun <zhaofangxun@uniontech.com>  Thu, 19 Nov 2026 22:13:28 +0800
+
 deepin-service-manager (6.8.1) unstable; urgency=medium
 
   * Release 6.8.1
